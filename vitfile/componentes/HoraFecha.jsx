@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 
+//funcion para establecer el reloj en tiempo real en la barra de navegacion exportada a componente
+
   export default function horafecha(){
     const [currentTime, setCurrentTime] = useState("");
 

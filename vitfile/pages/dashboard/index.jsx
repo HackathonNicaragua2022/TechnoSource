@@ -20,25 +20,16 @@ export default function Home() {
             route="#"
           />
           <Items
+            titulo="Egresar Pacientes"
+            path="./images/egresar paciente.png"
+            route="#"
+          />
+          <Items
             titulo="Historiales Médicos"
             path="./images/listar paciente.png"
             route="#"
           />
-          <Items
-            titulo="Eliminar Pacientes"
-            path="#"
-            route="#"
-          />
-          <Items
-            titulo="Agregar Pacientes"
-            path="./images/Ingresar Paciente.png"
-            route="#"
-          />
-          <Items
-            titulo="Eliminar Pacientes"
-            path="./images/egresar Paciente.png"
-            route="#"
-          />
+     
         </div>
       </Layout>
     </>
