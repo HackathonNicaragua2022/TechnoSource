@@ -25,20 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/dashboard": [
+    "/gestion/Paciente": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/dashboard.js"
-    ],
-    "/gestion/expedientePaciente": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/gestion/expedientePaciente.js"
-    ],
-    "/gestion/listarExpedientes": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/gestion/listarExpedientes.js"
+      "static/chunks/pages/gestion/Paciente.js"
     ],
     "/gestion/listarPacientes": [
       "static/chunks/webpack.js",

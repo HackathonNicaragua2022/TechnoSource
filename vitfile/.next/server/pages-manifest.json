@@ -2,8 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/gestion/listarPacientes": "pages/gestion/listarPacientes.js",
-  "/gestion/expedientePaciente": "pages/gestion/expedientePaciente.js",
-  "/gestion/listarExpedientes": "pages/gestion/listarExpedientes.js",
-  "/dashboard": "pages/dashboard.js"
+  "/gestion/Paciente": "pages/gestion/Paciente.js",
+  "/gestion/listarPacientes": "pages/gestion/listarPacientes.js"
 }

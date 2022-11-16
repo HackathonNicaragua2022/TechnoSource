@@ -129,7 +129,7 @@ export default function expedientePaciente() {
                   Dr. Valeria Fonseca
                 </td>
                 <td className="border-2 p-2 border-slate-500 border-solid">
-                  <Link href="" className="bg-cyan-600 text-white rounded-lg p-1">Detalles</Link>
+                  <Link href="/gestion/radiografias" className="bg-cyan-600 text-white rounded-lg p-1">Detalles</Link>
                 </td>
                
               </tr>
