@@ -1,4 +1,7 @@
 import Head from "next/head";
+import Navbar from "./Navbar";
+import Options from "./Options";
+
 
 export default function layout({ title, children }) {
   return (
